@@ -1,0 +1,10 @@
+flask
+python-dotenv
+cloudinary
+pillow
+opencv-python-headless
+numpy
+torch==2.2.1+cpu
+torchvision==0.17.1+cpu
+torchaudio==2.2.1+cpu
+-f https://download.pytorch.org/whl/cpu/torch_stable.html
